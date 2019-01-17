@@ -1,5 +1,5 @@
 {
-    "name": "fnash/graphql-qb",
+    "name": "achton/graphql-qb",
     "type": "library",
     "description": "A php GraphQL Query Builder. Nice API. Readable queries.",
     "autoload": {
